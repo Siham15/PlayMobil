@@ -5,11 +5,12 @@
 body{
 
     box-sizing: border-box;
-	
 	font-family: 'Roboto', 'Lato';
 	width: 80%;
 	flex-direction: column;
 	background-color: #D1F2EB;
+	margin-right: auto;
+	margin-left : auto
 }
 header{
 	background-color: #062780;
